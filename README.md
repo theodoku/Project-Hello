@@ -1,26 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 
 <!-- TABLE OF CONTENTS -->
 
@@ -52,49 +31,12 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello_Project]** is a... project to master tools and best practices for future projects
+**[Hello_Project]** The goal of this project to master all of the tools and best practices I have learnt, which I will be using in all Microverse projects and most likely in my future job as well!
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML
 - CSS
-
-<!-- ### Tech Stack <a name="tech-stack"></a> -->
-
-<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
-
-<!-- <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details> -->
-
-<!-- <details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details> -->
-
-<!-- <details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details> -->
-
-<!-- Features -->
-<!--
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LIVE DEMO -->
 
@@ -102,7 +44,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]
+- [Coming soon]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,96 +58,20 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-- Web Browser
-- Code Editor: [visual Studio code](https://code.visualstudio.com/)
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+In order to run this project you need to install npm and node.js
 
 ### Setup
 
 Clone this repository to your desired folder:
+1. Use VScode: open terminal in VScode
+2. Navigate to the directory where you want clone the copy of this repository
+3. Create new directory [optional]
+4. Clone the repo using the below command
 
 ```
 git clone https://github.com/theodoku/Hello_Project
 ```
 
-Open a index.html file with your code editor of your choice and/or a browser of your choice.
-
-```
-Open the project using a live server extension that can be found into your code editor.
-```
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-```
-npm install
-```
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-<!-- ### Usage
-
-To run the project, execute the following command: -->
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-<!-- ### Run tests
-
-To run tests, run the following command: -->
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-<!-- ### Deployment
-
-You can deploy this project using: -->
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- AUTHORS -->
 
